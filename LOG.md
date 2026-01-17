@@ -4,7 +4,7 @@ This is the log file where you can review the project's history
 
 **1/17/26**
 
-{
+[
 
     *Creating the project*
     
@@ -14,4 +14,4 @@ This is the log file where you can review the project's history
 
     *Creating the LOG file*
     
-}
+]
