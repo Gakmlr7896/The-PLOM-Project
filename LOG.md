@@ -4,14 +4,16 @@ This is the log file where you can review the project's history
 
 **1/17/26**
 
-[
 
-    *Creating the project*
+
+*Creating the project*
     
-    *Creating folders* 
+*Creating folders* 
 
-    *Adding a README file*
+*Adding a README file*
 
-    *Creating the LOG file*
+*Creating the LOG file*
+
+*making a simple pandulum model*
     
-]
+
